@@ -1,0 +1,48 @@
+.text-container {
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+}
+
+.text-container {
+    text-align: left;
+    font-family: 'lobster';
+
+}
+
+.large-text {
+    font-size: 50px; 
+}
+
+.sub{
+    font-size: 30px; 
+
+}
+.image-container {
+    border: 5px solid #ddd; /* Border color and width */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow effect */
+    padding: 30px; /* Optional: Add padding to create space around the image */
+}
+
+.text-box {
+    border: 2px solid #000; /* Border color */
+    padding: 20px; /* Padding inside the box */
+    background-color:black; /* Background color */
+    width: 60%; /* Adjust width as needed */
+    margin: 10px auto; /* Center the box horizontally */
+}
+
+.text-box p {
+    margin: 0; /* Remove default paragraph margins */
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-size: medium;
+}
+
+.text-container h1{
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-size: large;
+    
+
+}
